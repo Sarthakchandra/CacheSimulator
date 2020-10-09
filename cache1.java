@@ -3,6 +3,9 @@ import java.util.*;
 public class cache1{
     static int x; static int y;
     static int te;
+    
+    //Submitted under the course Computer Organisation at IIITD
+    
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);
         System.out.println("Enter the Size of Cache (in terms of 2^) ");
