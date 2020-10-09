@@ -4,7 +4,7 @@ public class cache1{
     static int x; static int y;
     static int te;
     
-    //Submitted under the course Computer Organisation at IIITD
+    //30% Assignment
     
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);
