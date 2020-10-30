@@ -169,6 +169,7 @@ class cache {
         } else {
             index = b_to_d(address.substring(cache.tag, cache.tag + indices));
             offset1 = b_to_d(address.substring(32 - cache.offset, 32));
+            //you can do string manipulation in a better way bud
         }
         int hit = 0;
         {
